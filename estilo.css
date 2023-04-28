@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecera{
+    display: flex;
+    justify-content: center;
+    padding: 20px 10px;
+}
+.cuerpo{
+    display: flex;
+    justify-content: center;
+}
+.datos{
+    width: 260px;
+    padding-top: 10px;
+}
+.datos h2{
+    padding: 10px 0px;
+}
+.datos ul{
+    padding-top: 10px;
+    margin-left: 35px;
+}
+.parrafos{
+    width: 700px;
+}
+.descripcion h2{
+    padding: 20px 0px;
+}
+.descripcion p{
+    padding: 5px 0px;
+}
+.contenido h2{
+    padding: 15px 0px;
+}
+.contenido p{
+    padding: 15px 0px;
+}
+.contenido ul{
+    list-style-type: none;
+    display: inline-flex;
+}
+.contenido li{
+    padding: 0px;
+    width: 33%;
+}
